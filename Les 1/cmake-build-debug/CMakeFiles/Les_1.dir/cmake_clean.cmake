@@ -1,5 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Les_1.dir/main.cpp.obj"
+  "CMakeFiles/Les_1.dir/Docenten.cpp.obj"
+  "CMakeFiles/Les_1.dir/Klassen.cpp.obj"
+  "CMakeFiles/Les_1.dir/Rooster.cpp.obj"
+  "CMakeFiles/Les_1.dir/Lokalen.cpp.obj"
   "Les_1.pdb"
   "Les_1.exe"
   "Les_1.exe.manifest"

@@ -80,6 +80,30 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/Docenten.cpp">
+			<Option target="Les_1"/>
+		</Unit>
+		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/Docenten.h">
+			<Option target="Les_1"/>
+		</Unit>
+		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/Klassen.cpp">
+			<Option target="Les_1"/>
+		</Unit>
+		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/Klassen.h">
+			<Option target="Les_1"/>
+		</Unit>
+		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/Lokalen.cpp">
+			<Option target="Les_1"/>
+		</Unit>
+		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/Lokalen.h">
+			<Option target="Les_1"/>
+		</Unit>
+		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/Rooster.cpp">
+			<Option target="Les_1"/>
+		</Unit>
+		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/Rooster.h">
+			<Option target="Les_1"/>
+		</Unit>
 		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/main.cpp">
 			<Option target="Les_1"/>
 		</Unit>

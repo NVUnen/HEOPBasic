@@ -122,6 +122,114 @@ Les_1/fast:
 	$(MAKE) -f CMakeFiles\Les_1.dir\build.make CMakeFiles/Les_1.dir/build
 .PHONY : Les_1/fast
 
+Docenten.obj: Docenten.cpp.obj
+
+.PHONY : Docenten.obj
+
+# target to build an object file
+Docenten.cpp.obj:
+	$(MAKE) -f CMakeFiles\Les_1.dir\build.make CMakeFiles/Les_1.dir/Docenten.cpp.obj
+.PHONY : Docenten.cpp.obj
+
+Docenten.i: Docenten.cpp.i
+
+.PHONY : Docenten.i
+
+# target to preprocess a source file
+Docenten.cpp.i:
+	$(MAKE) -f CMakeFiles\Les_1.dir\build.make CMakeFiles/Les_1.dir/Docenten.cpp.i
+.PHONY : Docenten.cpp.i
+
+Docenten.s: Docenten.cpp.s
+
+.PHONY : Docenten.s
+
+# target to generate assembly for a file
+Docenten.cpp.s:
+	$(MAKE) -f CMakeFiles\Les_1.dir\build.make CMakeFiles/Les_1.dir/Docenten.cpp.s
+.PHONY : Docenten.cpp.s
+
+Klassen.obj: Klassen.cpp.obj
+
+.PHONY : Klassen.obj
+
+# target to build an object file
+Klassen.cpp.obj:
+	$(MAKE) -f CMakeFiles\Les_1.dir\build.make CMakeFiles/Les_1.dir/Klassen.cpp.obj
+.PHONY : Klassen.cpp.obj
+
+Klassen.i: Klassen.cpp.i
+
+.PHONY : Klassen.i
+
+# target to preprocess a source file
+Klassen.cpp.i:
+	$(MAKE) -f CMakeFiles\Les_1.dir\build.make CMakeFiles/Les_1.dir/Klassen.cpp.i
+.PHONY : Klassen.cpp.i
+
+Klassen.s: Klassen.cpp.s
+
+.PHONY : Klassen.s
+
+# target to generate assembly for a file
+Klassen.cpp.s:
+	$(MAKE) -f CMakeFiles\Les_1.dir\build.make CMakeFiles/Les_1.dir/Klassen.cpp.s
+.PHONY : Klassen.cpp.s
+
+Lokalen.obj: Lokalen.cpp.obj
+
+.PHONY : Lokalen.obj
+
+# target to build an object file
+Lokalen.cpp.obj:
+	$(MAKE) -f CMakeFiles\Les_1.dir\build.make CMakeFiles/Les_1.dir/Lokalen.cpp.obj
+.PHONY : Lokalen.cpp.obj
+
+Lokalen.i: Lokalen.cpp.i
+
+.PHONY : Lokalen.i
+
+# target to preprocess a source file
+Lokalen.cpp.i:
+	$(MAKE) -f CMakeFiles\Les_1.dir\build.make CMakeFiles/Les_1.dir/Lokalen.cpp.i
+.PHONY : Lokalen.cpp.i
+
+Lokalen.s: Lokalen.cpp.s
+
+.PHONY : Lokalen.s
+
+# target to generate assembly for a file
+Lokalen.cpp.s:
+	$(MAKE) -f CMakeFiles\Les_1.dir\build.make CMakeFiles/Les_1.dir/Lokalen.cpp.s
+.PHONY : Lokalen.cpp.s
+
+Rooster.obj: Rooster.cpp.obj
+
+.PHONY : Rooster.obj
+
+# target to build an object file
+Rooster.cpp.obj:
+	$(MAKE) -f CMakeFiles\Les_1.dir\build.make CMakeFiles/Les_1.dir/Rooster.cpp.obj
+.PHONY : Rooster.cpp.obj
+
+Rooster.i: Rooster.cpp.i
+
+.PHONY : Rooster.i
+
+# target to preprocess a source file
+Rooster.cpp.i:
+	$(MAKE) -f CMakeFiles\Les_1.dir\build.make CMakeFiles/Les_1.dir/Rooster.cpp.i
+.PHONY : Rooster.cpp.i
+
+Rooster.s: Rooster.cpp.s
+
+.PHONY : Rooster.s
+
+# target to generate assembly for a file
+Rooster.cpp.s:
+	$(MAKE) -f CMakeFiles\Les_1.dir\build.make CMakeFiles/Les_1.dir/Rooster.cpp.s
+.PHONY : Rooster.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +266,18 @@ help:
 	@echo ... Les_1
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Docenten.obj
+	@echo ... Docenten.i
+	@echo ... Docenten.s
+	@echo ... Klassen.obj
+	@echo ... Klassen.i
+	@echo ... Klassen.s
+	@echo ... Lokalen.obj
+	@echo ... Lokalen.i
+	@echo ... Lokalen.s
+	@echo ... Rooster.obj
+	@echo ... Rooster.i
+	@echo ... Rooster.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

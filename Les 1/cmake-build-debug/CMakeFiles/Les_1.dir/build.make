@@ -69,19 +69,79 @@ CMakeFiles/Les_1.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Les_1.dir/main.cpp.s"
 	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\main.cpp" -o CMakeFiles\Les_1.dir\main.cpp.s
 
+CMakeFiles/Les_1.dir/Docenten.cpp.obj: CMakeFiles/Les_1.dir/flags.make
+CMakeFiles/Les_1.dir/Docenten.cpp.obj: ../Docenten.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Les_1.dir/Docenten.cpp.obj"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Les_1.dir\Docenten.cpp.obj -c "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\Docenten.cpp"
+
+CMakeFiles/Les_1.dir/Docenten.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Les_1.dir/Docenten.cpp.i"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\Docenten.cpp" > CMakeFiles\Les_1.dir\Docenten.cpp.i
+
+CMakeFiles/Les_1.dir/Docenten.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Les_1.dir/Docenten.cpp.s"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\Docenten.cpp" -o CMakeFiles\Les_1.dir\Docenten.cpp.s
+
+CMakeFiles/Les_1.dir/Klassen.cpp.obj: CMakeFiles/Les_1.dir/flags.make
+CMakeFiles/Les_1.dir/Klassen.cpp.obj: ../Klassen.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Les_1.dir/Klassen.cpp.obj"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Les_1.dir\Klassen.cpp.obj -c "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\Klassen.cpp"
+
+CMakeFiles/Les_1.dir/Klassen.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Les_1.dir/Klassen.cpp.i"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\Klassen.cpp" > CMakeFiles\Les_1.dir\Klassen.cpp.i
+
+CMakeFiles/Les_1.dir/Klassen.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Les_1.dir/Klassen.cpp.s"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\Klassen.cpp" -o CMakeFiles\Les_1.dir\Klassen.cpp.s
+
+CMakeFiles/Les_1.dir/Rooster.cpp.obj: CMakeFiles/Les_1.dir/flags.make
+CMakeFiles/Les_1.dir/Rooster.cpp.obj: ../Rooster.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Les_1.dir/Rooster.cpp.obj"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Les_1.dir\Rooster.cpp.obj -c "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\Rooster.cpp"
+
+CMakeFiles/Les_1.dir/Rooster.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Les_1.dir/Rooster.cpp.i"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\Rooster.cpp" > CMakeFiles\Les_1.dir\Rooster.cpp.i
+
+CMakeFiles/Les_1.dir/Rooster.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Les_1.dir/Rooster.cpp.s"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\Rooster.cpp" -o CMakeFiles\Les_1.dir\Rooster.cpp.s
+
+CMakeFiles/Les_1.dir/Lokalen.cpp.obj: CMakeFiles/Les_1.dir/flags.make
+CMakeFiles/Les_1.dir/Lokalen.cpp.obj: ../Lokalen.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Les_1.dir/Lokalen.cpp.obj"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Les_1.dir\Lokalen.cpp.obj -c "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\Lokalen.cpp"
+
+CMakeFiles/Les_1.dir/Lokalen.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Les_1.dir/Lokalen.cpp.i"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\Lokalen.cpp" > CMakeFiles\Les_1.dir\Lokalen.cpp.i
+
+CMakeFiles/Les_1.dir/Lokalen.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Les_1.dir/Lokalen.cpp.s"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\Lokalen.cpp" -o CMakeFiles\Les_1.dir\Lokalen.cpp.s
+
 # Object files for target Les_1
 Les_1_OBJECTS = \
-"CMakeFiles/Les_1.dir/main.cpp.obj"
+"CMakeFiles/Les_1.dir/main.cpp.obj" \
+"CMakeFiles/Les_1.dir/Docenten.cpp.obj" \
+"CMakeFiles/Les_1.dir/Klassen.cpp.obj" \
+"CMakeFiles/Les_1.dir/Rooster.cpp.obj" \
+"CMakeFiles/Les_1.dir/Lokalen.cpp.obj"
 
 # External object files for target Les_1
 Les_1_EXTERNAL_OBJECTS =
 
 Les_1.exe: CMakeFiles/Les_1.dir/main.cpp.obj
+Les_1.exe: CMakeFiles/Les_1.dir/Docenten.cpp.obj
+Les_1.exe: CMakeFiles/Les_1.dir/Klassen.cpp.obj
+Les_1.exe: CMakeFiles/Les_1.dir/Rooster.cpp.obj
+Les_1.exe: CMakeFiles/Les_1.dir/Lokalen.cpp.obj
 Les_1.exe: CMakeFiles/Les_1.dir/build.make
 Les_1.exe: CMakeFiles/Les_1.dir/linklibs.rsp
 Les_1.exe: CMakeFiles/Les_1.dir/objects1.rsp
 Les_1.exe: CMakeFiles/Les_1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Les_1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Les_1.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Les_1.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

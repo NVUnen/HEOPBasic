@@ -4,6 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/Docenten.cpp" "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/cmake-build-debug/CMakeFiles/Les_1.dir/Docenten.cpp.obj"
+  "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/Klassen.cpp" "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/cmake-build-debug/CMakeFiles/Les_1.dir/Klassen.cpp.obj"
+  "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/Lokalen.cpp" "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/cmake-build-debug/CMakeFiles/Les_1.dir/Lokalen.cpp.obj"
+  "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/Rooster.cpp" "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/cmake-build-debug/CMakeFiles/Les_1.dir/Rooster.cpp.obj"
   "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/main.cpp" "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 1/cmake-build-debug/CMakeFiles/Les_1.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
