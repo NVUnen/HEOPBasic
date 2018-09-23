@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 2/Docent.cpp
+Docent.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 2/Docent.h
+iostream
+-
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 2/Docent.h
+Persoon.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 2/Persoon.h
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 2/Persoon.h
+string
+-
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 2/Student.cpp
+Student.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 2/Student.h
+iostream
+-
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 2/Student.h
+Persoon.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 2/Persoon.h
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 2/main.cpp
+iostream
+-
+Persoon.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 2/Persoon.h
+Student.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 2/Student.h
+Docent.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 2/Docent.h
+
