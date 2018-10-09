@@ -1,7 +1,10 @@
 #include "Docent.h"
 #include <iostream>
 
-Docent::Docent(int leeftijd, std::string naam) {
-    this->leeftijd = leeftijd;
-    this->naam = naam;
+Docent::Docent(int leeftijd, std::string naam, int amountofstudents) : Persoon(leeftijd, naam) {
+    this->amountofstudents = amountofstudents;
+}
+
+int Docent::amountOfstudents() const {
+    return amountofstudents;
 }

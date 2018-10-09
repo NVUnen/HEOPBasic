@@ -4,8 +4,6 @@
 class Student : public Persoon{
 
 private:
-    int leeftijd;
-    std::string naam;
     int amountofbooks;
 
 public:

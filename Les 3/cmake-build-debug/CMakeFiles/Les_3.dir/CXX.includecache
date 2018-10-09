@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.cpp
+Muntgeld.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.h
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.h
+string
+-
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Vijftigcent.cpp
+Vijftigcent.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Vijftigcent.h
+iostream
+-
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Vijftigcent.h
+Muntgeld.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.h
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/main.cpp
+iostream
+-
+Muntgeld.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.h
+

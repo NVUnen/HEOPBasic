@@ -4,11 +4,12 @@
 class Docent : public Persoon{
 
 private:
-    int leeftijd;
-    std::string naam;
+    int amountofstudents;
 
 public:
-    Docent(int leeftijd, std::string naam);
+    Docent(int leeftijd, std::string naam, int amountofstudents);
+
+    const int amountOfstudents() const;
 
 
 };
