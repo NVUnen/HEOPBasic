@@ -5,6 +5,6 @@ Docent::Docent(int leeftijd, std::string naam, int amountofstudents) : Persoon(l
     this->amountofstudents = amountofstudents;
 }
 
-int Docent::amountOfstudents() const {
+const int Docent::amountOfstudents() const {
     return amountofstudents;
 }

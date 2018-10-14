@@ -5,7 +5,7 @@ Student::Student(int leeftijd, std::string naam, int amountofbooks) : Persoon(le
     this->amountofbooks = amountofbooks;
 }
 
-int Student::amountOfbooks() const {
+const int Student::amountOfbooks() const {
     return amountofbooks;
 }
 
