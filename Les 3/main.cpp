@@ -4,12 +4,10 @@
 #include "Koffieautomaat.h"
 
 int main() {
-    Muntgeld vijftigcent =  Muntgeld();
 
-    Koffieautomaat automaat;
-    automaat.checkMuntvalue(vijftigcent);
+    Vijftigcent Vijftigcent1 = (0.5,"Vijftigcent");
 
-    std::cin >> vijftigcent;
+    std::cout << Vijftigcent1.getValue() << "Value" << Vijftigcent1.getName() << "Name" << std::endl;
 
     return 0;
 }

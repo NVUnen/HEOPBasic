@@ -6,9 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.cpp
-Muntgeld.h
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffieautomaat.cpp
+iostream
+-
+Koffieautomaat.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffieautomaat.h
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffieautomaat.h
+Vijftigcent.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Vijftigcent.h
 
 C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.h
 string
@@ -29,4 +35,8 @@ iostream
 -
 Muntgeld.h
 C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.h
+Vijftigcent.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Vijftigcent.h
+Koffieautomaat.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffieautomaat.h
 

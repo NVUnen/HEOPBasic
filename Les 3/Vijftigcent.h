@@ -1,10 +1,9 @@
 #pragma once
 #include "Muntgeld.h"
 
-class Vijftigcent: public Muntgeld {
+class Vijftigcent : public Muntgeld {
 
-    public:
-        void muntValue();
+public:
+    Vijftigcent(float value, std::string name);
 
 };
-    `
