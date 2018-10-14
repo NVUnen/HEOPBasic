@@ -4,6 +4,7 @@
 class Vijftigcent: public Muntgeld {
 
     public:
-        void muntValue() override;
+        void muntValue();
 
 };
+    `

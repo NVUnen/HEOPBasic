@@ -2,7 +2,7 @@
 #include <iostream>
 
 void Vijftigcent::muntValue() {
-    std::cout << "Muntvalue" << std::endl;
+    std::cout << "Vijftigcent value" << std::endl;
 }
 
 
