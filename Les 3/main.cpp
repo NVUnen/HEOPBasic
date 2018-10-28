@@ -1,13 +1,24 @@
 #include <iostream>
 #include "Muntgeld.h"
 #include "Vijftigcent.h"
+#include "Eeneuro.h"
+#include "Koffiemunt.h"
 #include "Koffieautomaat.h"
 
 int main() {
 
-    Vijftigcent Vijftigcent1 = (0.5,"Vijftigcent");
+    Vijftigcent vijftigcent = Vijftigcent();
+    Eeneuro eeneuro = Eeneuro();
+    Koffiemunt koffiemunt = Koffiemunt();
 
-    std::cout << Vijftigcent1.getValue() << "Value" << Vijftigcent1.getName() << "Name" << std::endl;
+    Koffieautomaat check;
+    check.getValue(vijftigcent);
+    check.getValue(eeneuro);
+    check.getValue(koffiemunt);
+
+    char ;
+    std::cin >> pietjepuk;
 
     return 0;
+
 }

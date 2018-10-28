@@ -122,6 +122,33 @@ Les_3/fast:
 	$(MAKE) -f CMakeFiles\Les_3.dir\build.make CMakeFiles/Les_3.dir/build
 .PHONY : Les_3/fast
 
+Eeneuro.obj: Eeneuro.cpp.obj
+
+.PHONY : Eeneuro.obj
+
+# target to build an object file
+Eeneuro.cpp.obj:
+	$(MAKE) -f CMakeFiles\Les_3.dir\build.make CMakeFiles/Les_3.dir/Eeneuro.cpp.obj
+.PHONY : Eeneuro.cpp.obj
+
+Eeneuro.i: Eeneuro.cpp.i
+
+.PHONY : Eeneuro.i
+
+# target to preprocess a source file
+Eeneuro.cpp.i:
+	$(MAKE) -f CMakeFiles\Les_3.dir\build.make CMakeFiles/Les_3.dir/Eeneuro.cpp.i
+.PHONY : Eeneuro.cpp.i
+
+Eeneuro.s: Eeneuro.cpp.s
+
+.PHONY : Eeneuro.s
+
+# target to generate assembly for a file
+Eeneuro.cpp.s:
+	$(MAKE) -f CMakeFiles\Les_3.dir\build.make CMakeFiles/Les_3.dir/Eeneuro.cpp.s
+.PHONY : Eeneuro.cpp.s
+
 Koffieautomaat.obj: Koffieautomaat.cpp.obj
 
 .PHONY : Koffieautomaat.obj
@@ -148,6 +175,33 @@ Koffieautomaat.s: Koffieautomaat.cpp.s
 Koffieautomaat.cpp.s:
 	$(MAKE) -f CMakeFiles\Les_3.dir\build.make CMakeFiles/Les_3.dir/Koffieautomaat.cpp.s
 .PHONY : Koffieautomaat.cpp.s
+
+Koffiemunt.obj: Koffiemunt.cpp.obj
+
+.PHONY : Koffiemunt.obj
+
+# target to build an object file
+Koffiemunt.cpp.obj:
+	$(MAKE) -f CMakeFiles\Les_3.dir\build.make CMakeFiles/Les_3.dir/Koffiemunt.cpp.obj
+.PHONY : Koffiemunt.cpp.obj
+
+Koffiemunt.i: Koffiemunt.cpp.i
+
+.PHONY : Koffiemunt.i
+
+# target to preprocess a source file
+Koffiemunt.cpp.i:
+	$(MAKE) -f CMakeFiles\Les_3.dir\build.make CMakeFiles/Les_3.dir/Koffiemunt.cpp.i
+.PHONY : Koffiemunt.cpp.i
+
+Koffiemunt.s: Koffiemunt.cpp.s
+
+.PHONY : Koffiemunt.s
+
+# target to generate assembly for a file
+Koffiemunt.cpp.s:
+	$(MAKE) -f CMakeFiles\Les_3.dir\build.make CMakeFiles/Les_3.dir/Koffiemunt.cpp.s
+.PHONY : Koffiemunt.cpp.s
 
 Muntgeld.obj: Muntgeld.cpp.obj
 
@@ -239,9 +293,15 @@ help:
 	@echo ... rebuild_cache
 	@echo ... Les_3
 	@echo ... edit_cache
+	@echo ... Eeneuro.obj
+	@echo ... Eeneuro.i
+	@echo ... Eeneuro.s
 	@echo ... Koffieautomaat.obj
 	@echo ... Koffieautomaat.i
 	@echo ... Koffieautomaat.s
+	@echo ... Koffiemunt.obj
+	@echo ... Koffiemunt.i
+	@echo ... Koffiemunt.s
 	@echo ... Muntgeld.obj
 	@echo ... Muntgeld.i
 	@echo ... Muntgeld.s

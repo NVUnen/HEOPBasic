@@ -95,9 +95,35 @@ CMakeFiles/Les_3.dir/Vijftigcent.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Les_3.dir/Vijftigcent.cpp.s"
 	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\Vijftigcent.cpp" -o CMakeFiles\Les_3.dir\Vijftigcent.cpp.s
 
+CMakeFiles/Les_3.dir/Eeneuro.cpp.obj: CMakeFiles/Les_3.dir/flags.make
+CMakeFiles/Les_3.dir/Eeneuro.cpp.obj: ../Eeneuro.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Les_3.dir/Eeneuro.cpp.obj"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Les_3.dir\Eeneuro.cpp.obj -c "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\Eeneuro.cpp"
+
+CMakeFiles/Les_3.dir/Eeneuro.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Les_3.dir/Eeneuro.cpp.i"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\Eeneuro.cpp" > CMakeFiles\Les_3.dir\Eeneuro.cpp.i
+
+CMakeFiles/Les_3.dir/Eeneuro.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Les_3.dir/Eeneuro.cpp.s"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\Eeneuro.cpp" -o CMakeFiles\Les_3.dir\Eeneuro.cpp.s
+
+CMakeFiles/Les_3.dir/Koffiemunt.cpp.obj: CMakeFiles/Les_3.dir/flags.make
+CMakeFiles/Les_3.dir/Koffiemunt.cpp.obj: ../Koffiemunt.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Les_3.dir/Koffiemunt.cpp.obj"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Les_3.dir\Koffiemunt.cpp.obj -c "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\Koffiemunt.cpp"
+
+CMakeFiles/Les_3.dir/Koffiemunt.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Les_3.dir/Koffiemunt.cpp.i"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\Koffiemunt.cpp" > CMakeFiles\Les_3.dir\Koffiemunt.cpp.i
+
+CMakeFiles/Les_3.dir/Koffiemunt.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Les_3.dir/Koffiemunt.cpp.s"
+	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\Koffiemunt.cpp" -o CMakeFiles\Les_3.dir\Koffiemunt.cpp.s
+
 CMakeFiles/Les_3.dir/Koffieautomaat.cpp.obj: CMakeFiles/Les_3.dir/flags.make
 CMakeFiles/Les_3.dir/Koffieautomaat.cpp.obj: ../Koffieautomaat.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Les_3.dir/Koffieautomaat.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Les_3.dir/Koffieautomaat.cpp.obj"
 	C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Les_3.dir\Koffieautomaat.cpp.obj -c "C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\Koffieautomaat.cpp"
 
 CMakeFiles/Les_3.dir/Koffieautomaat.cpp.i: cmake_force
@@ -113,6 +139,8 @@ Les_3_OBJECTS = \
 "CMakeFiles/Les_3.dir/main.cpp.obj" \
 "CMakeFiles/Les_3.dir/Muntgeld.cpp.obj" \
 "CMakeFiles/Les_3.dir/Vijftigcent.cpp.obj" \
+"CMakeFiles/Les_3.dir/Eeneuro.cpp.obj" \
+"CMakeFiles/Les_3.dir/Koffiemunt.cpp.obj" \
 "CMakeFiles/Les_3.dir/Koffieautomaat.cpp.obj"
 
 # External object files for target Les_3
@@ -121,12 +149,14 @@ Les_3_EXTERNAL_OBJECTS =
 Les_3.exe: CMakeFiles/Les_3.dir/main.cpp.obj
 Les_3.exe: CMakeFiles/Les_3.dir/Muntgeld.cpp.obj
 Les_3.exe: CMakeFiles/Les_3.dir/Vijftigcent.cpp.obj
+Les_3.exe: CMakeFiles/Les_3.dir/Eeneuro.cpp.obj
+Les_3.exe: CMakeFiles/Les_3.dir/Koffiemunt.cpp.obj
 Les_3.exe: CMakeFiles/Les_3.dir/Koffieautomaat.cpp.obj
 Les_3.exe: CMakeFiles/Les_3.dir/build.make
 Les_3.exe: CMakeFiles/Les_3.dir/linklibs.rsp
 Les_3.exe: CMakeFiles/Les_3.dir/objects1.rsp
 Les_3.exe: CMakeFiles/Les_3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Les_3.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\niels\Documents\HKU\HEOBPB\Github\HEOPBasic\Les 3\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Les_3.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Les_3.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

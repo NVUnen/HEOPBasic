@@ -4,6 +4,6 @@
 class Vijftigcent : public Muntgeld {
 
 public:
-    Vijftigcent(float value, std::string name);
+    virtual void Value();
 
 };

@@ -4,7 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Eeneuro.cpp" "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/cmake-build-debug/CMakeFiles/Les_3.dir/Eeneuro.cpp.obj"
   "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffieautomaat.cpp" "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/cmake-build-debug/CMakeFiles/Les_3.dir/Koffieautomaat.cpp.obj"
+  "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffiemunt.cpp" "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/cmake-build-debug/CMakeFiles/Les_3.dir/Koffiemunt.cpp.obj"
   "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.cpp" "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/cmake-build-debug/CMakeFiles/Les_3.dir/Muntgeld.cpp.obj"
   "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Vijftigcent.cpp" "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/cmake-build-debug/CMakeFiles/Les_3.dir/Vijftigcent.cpp.obj"
   "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/main.cpp" "C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/cmake-build-debug/CMakeFiles/Les_3.dir/main.cpp.obj"

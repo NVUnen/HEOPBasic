@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Les_3.dir/main.cpp.obj"
   "CMakeFiles/Les_3.dir/Muntgeld.cpp.obj"
   "CMakeFiles/Les_3.dir/Vijftigcent.cpp.obj"
+  "CMakeFiles/Les_3.dir/Eeneuro.cpp.obj"
+  "CMakeFiles/Les_3.dir/Koffiemunt.cpp.obj"
   "CMakeFiles/Les_3.dir/Koffieautomaat.cpp.obj"
   "Les_3.pdb"
   "Les_3.exe"

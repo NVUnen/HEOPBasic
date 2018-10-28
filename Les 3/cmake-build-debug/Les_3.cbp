@@ -80,10 +80,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Eeneuro.cpp">
+			<Option target="Les_3"/>
+		</Unit>
+		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Eeneuro.h">
+			<Option target="Les_3"/>
+		</Unit>
 		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffieautomaat.cpp">
 			<Option target="Les_3"/>
 		</Unit>
 		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffieautomaat.h">
+			<Option target="Les_3"/>
+		</Unit>
+		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffiemunt.cpp">
+			<Option target="Les_3"/>
+		</Unit>
+		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffiemunt.h">
 			<Option target="Les_3"/>
 		</Unit>
 		<Unit filename="C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.cpp">

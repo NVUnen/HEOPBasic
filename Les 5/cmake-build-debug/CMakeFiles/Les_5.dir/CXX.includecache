@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 5/Bibliotheek.h
+string
+-
+Book.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 5/Book.h
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 5/Book.h
+string
+-
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 5/main.cpp
+iostream
+-
+Bibliotheek.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 5/Bibliotheek.h
+Book.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 5/Book.h
+

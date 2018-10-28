@@ -6,24 +6,26 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffieautomaat.cpp
-iostream
--
-Koffieautomaat.h
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffieautomaat.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Eeneuro.h
+Muntgeld.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.h
 
 C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffieautomaat.h
+Eeneuro.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Eeneuro.h
+Koffiemunt.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffiemunt.h
 Vijftigcent.h
 C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Vijftigcent.h
+Muntgeld.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.h
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffiemunt.h
+Muntgeld.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.h
 
 C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.h
 string
--
-
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Vijftigcent.cpp
-Vijftigcent.h
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Vijftigcent.h
-iostream
 -
 
 C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Vijftigcent.h
@@ -37,6 +39,10 @@ Muntgeld.h
 C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Muntgeld.h
 Vijftigcent.h
 C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Vijftigcent.h
+Eeneuro.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Eeneuro.h
+Koffiemunt.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffiemunt.h
 Koffieautomaat.h
 C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 3/Koffieautomaat.h
 
