@@ -2,21 +2,27 @@
 #include "math.h"
 #include "Thalys.h"
 
-Thalys::Thalys(int c, int d, int k) {
+Thalys::Thalys(int c, int d) {
     capacity = c;
     distance = d;
-    kilometerprice = k;
 }
 
-
-
 float Thalys::ticketprice() {
-    return capacity * distance * kilometerprice;
+    float price;
+    price = distance * kilometerprice;
+    return price;
+}
+
+float Thalys::income() {
+    float income;
+    income = capacity * ticketprice();
+    return income;
 }
 
 float Thalys::allowance() {
-
+    float allowance;
+    allowance = 0.1f;
+    return allowance;
 }
-
 
 

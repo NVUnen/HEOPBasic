@@ -2,18 +2,25 @@
 #include "math.h"
 #include "Expresstrain.h"
 
-Expresstrain::Expresstrain(int c, int d, int k) {
+Expresstrain::Expresstrain(int c, int d) {
     capacity = c;
     distance = d;
-    kilometerprice = k;
 }
 
-
-
 float Expresstrain::ticketprice() {
-    return capacity * distance * kilometerprice;
+    float price;
+    price = distance * kilometerprice;
+    return price;
+}
+
+float Expresstrain::income() {
+    float income;
+    income = capacity * ticketprice();
+    return income;
 }
 
 float Expresstrain::allowance() {
-
+    float allowance;
+    allowance = 0.0f;
+    return allowance;
 }

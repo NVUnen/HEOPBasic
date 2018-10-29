@@ -6,35 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Expresstrain.h
-train.h
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/train.h
-
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Ice.h
-Train.h
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Train.h
-
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Normaltrain.h
-Train.h
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Train.h
-
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Thalys.h
-Train.h
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Train.h
-
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Train.h
-
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/main.cpp
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Ice.cpp
 iostream
 -
-Normaltrain.h
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Normaltrain.h
-Expresstrain.h
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Expresstrain.h
-Thalys.h
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Thalys.h
+math.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/math.h
 Ice.h
 C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Ice.h
 
-C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/train.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Ice.h
+Train.h
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Train.h
+
+C:/Users/niels/Documents/HKU/HEOBPB/Github/HEOPBasic/Les 6/Train.h
 

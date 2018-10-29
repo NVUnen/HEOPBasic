@@ -4,7 +4,8 @@
 class Muntgeld {
 
     public:
-        virtual void Value();
+        Muntgeld();
+        ~Muntgeld();
 
 
 };

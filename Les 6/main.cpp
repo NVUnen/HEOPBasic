@@ -6,21 +6,21 @@
 
 int main() {
 
-    Normaltrain c = Normaltrain(100,12, 2);
-    c.allowance();
-    std::cout << "Normal train max capacity income: " << c.ticketprice() << std::endl;
+    Normaltrain c = Normaltrain(100,12);
+    c.ticketprice();
+    std::cout << "Income Normal train on max capacity: " << c.income() << std::endl;
 
-    Expresstrain a = Expresstrain(50,10, 4);
-    a.allowance();
-    std::cout << "Express train max capacity income: " << a.ticketprice() << std::endl;
+    Expresstrain a = Expresstrain(50,10);
+    a.ticketprice();
+    std::cout << "Income Express train on max capacity: " << a.income() << std::endl;
 
-    Thalys b = Thalys(150,100, 8);
-    b.allowance();
-    std::cout << "Thalys max capacity income: " << b.ticketprice() << std::endl;
+    Thalys b = Thalys(100,12);
+    b.ticketprice();
+    std::cout << "Income Thalys on max capacity: " << b.income() << std::endl;
 
-    Ice d = Ice(100,200, 5);
-    d.allowance();
-    std::cout << "ICE max capacity income: " << d.ticketprice() << std::endl;
+    Ice d = Ice(100,12);
+    d.ticketprice();
+    std::cout << "Income ICE train on max capacity: " << d.income() << std::endl;
 
     return 0;
 }

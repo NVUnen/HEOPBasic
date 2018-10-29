@@ -5,20 +5,15 @@
 #include "Koffiemunt.h"
 #include "Koffieautomaat.h"
 
+using namespace std;
+
 int main() {
 
-    Vijftigcent vijftigcent = Vijftigcent();
-    Eeneuro eeneuro = Eeneuro();
-    Koffiemunt koffiemunt = Koffiemunt();
+    Vijftigcent c = Vijftigcent();
+    c.saldo();
 
-    Koffieautomaat check;
-    check.getValue(vijftigcent);
-    check.getValue(eeneuro);
-    check.getValue(koffiemunt);
-
-    char ;
-    std::cin >> pietjepuk;
-
+    std::cout << "Vijftig cent ingeworpen " << c.Vijftigcent() << std::endl;
+    std::cout << std::endl;
     return 0;
 
 }

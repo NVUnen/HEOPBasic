@@ -1,26 +1,22 @@
 #include <iostream>
 #include "Koffieautomaat.h"
 
+Koffieautomaat::Koffieautomaat() {}
+
+Koffieautomaat::~Koffieautomaat() {}
+
 void Koffieautomaat::getValue(Eeneuro d) {
-    std::cout << "Eeneuro" << std::endl;
-    d.Value();
+    saldo+= 10;
 }
 
 void Koffieautomaat::getValue(Vijftigcent c) {
-    std::cout << "Vijftigcent" << std::endl;
-    c.Value();
+    saldo+= 5;
 }
 
 void Koffieautomaat::getValue(Koffiemunt b) {
-    std::cout << "Koffiemunt" << std::endl;
-    b.Value();
+    saldo+= 100;
+    koffieMunt = 1;
 }
 
 void Koffieautomaat::getValue(Muntgeld a) {
-    std::cout << "Muntgeld" << std::endl;
-    a.Value();
-}
-
-void cappuchino(int value){
-
 }

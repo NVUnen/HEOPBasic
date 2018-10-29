@@ -1,12 +1,13 @@
 #pragma once
 
-#include "train.h"
+#include "Train.h"
 
 class Expresstrain : public Train{
     public:
-        Expresstrain(int a, int d, int k);
+        Expresstrain(int a, int d);
 
         float ticketprice() override;
+        float income() override;
         float allowance() override;
 
     private:

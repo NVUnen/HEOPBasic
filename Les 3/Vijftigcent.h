@@ -4,6 +4,9 @@
 class Vijftigcent : public Muntgeld {
 
 public:
-    virtual void Value();
+    Vijftigcent();
+    ~Vijftigcent();
+private:
+    float value = 0.50f;
 
 };

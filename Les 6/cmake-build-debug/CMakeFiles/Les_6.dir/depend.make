@@ -3,7 +3,7 @@
 
 CMakeFiles/Les_6.dir/Expresstrain.cpp.obj: ../Expresstrain.cpp
 CMakeFiles/Les_6.dir/Expresstrain.cpp.obj: ../Expresstrain.h
-CMakeFiles/Les_6.dir/Expresstrain.cpp.obj: ../train.h
+CMakeFiles/Les_6.dir/Expresstrain.cpp.obj: ../Train.h
 
 CMakeFiles/Les_6.dir/Ice.cpp.obj: ../Ice.cpp
 CMakeFiles/Les_6.dir/Ice.cpp.obj: ../Ice.h
@@ -26,5 +26,4 @@ CMakeFiles/Les_6.dir/main.cpp.obj: ../Normaltrain.h
 CMakeFiles/Les_6.dir/main.cpp.obj: ../Thalys.h
 CMakeFiles/Les_6.dir/main.cpp.obj: ../Train.h
 CMakeFiles/Les_6.dir/main.cpp.obj: ../main.cpp
-CMakeFiles/Les_6.dir/main.cpp.obj: ../train.h
 

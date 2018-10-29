@@ -4,9 +4,10 @@
 
 class Thalys : public Train {
 public:
-    Thalys(int a, int d, int k);
+    Thalys(int a, int d);
 
     float ticketprice() override;
+    float income() override;
     float allowance() override;
 
 private:

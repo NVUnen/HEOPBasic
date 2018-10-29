@@ -2,20 +2,28 @@
 #include "math.h"
 #include "Normaltrain.h"
 
-Normaltrain::Normaltrain(int c, int d, int k) {
+Normaltrain::Normaltrain(int c, int d) {
     capacity = c;
     distance = d;
-    kilometerprice = k;
 }
 
-
-
 float Normaltrain::ticketprice() {
-    return capacity * distance * kilometerprice;
+
+    float price;
+    price = distance * kilometerprice;
+    return price;
+}
+
+float Normaltrain::income() {
+    float income;
+    income = capacity * ticketprice();
+    return income;
 }
 
 float Normaltrain::allowance() {
-
+    float allowance;
+    allowance = 0.0f;
+    return allowance;
 }
 
 
